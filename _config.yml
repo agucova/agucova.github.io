@@ -1,16 +1,18 @@
-# Site
+# Config del sitio
 title:              Agustín Covarrubias
-bio:                'Intento de programador. Algo de seguridad informática'
-description:        "Mi blog, y página web."
+bio:
+  es:               'Un estudiante apasionado por la informática y la ciencia.'
+  en:               'An student passionate about computing and science.'
+description:        "Mi blog y web."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo3.png'
-background:         'https://source.unsplash.com/qkEdBIOwT8E/1920x1080'
+background:         'https://source.unsplash.com/random/1920x1080'
 locale:             es_ES
-url:                https://agucova.github.io
+url:                https://agucova.me
 
 # Jekyll
-enforce_ssl:        agucova.github.io
+enforce_ssl:        agucova.me
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
@@ -37,7 +39,7 @@ disqus_shortname:   agucova
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              agucova@gmail.com
+email:              agustin@covarrubias.cl
 twitter:            agucova
 github:             agucova
 stackoverflow:      4595150/forgotten-player-agucova
@@ -64,7 +66,7 @@ analytics :
   provider : google
   google :
       tracking_id : 'UA-50420608-6'
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
@@ -73,5 +75,10 @@ gems:
 jekyll-mentions:
     base_url: https://github.com
 
+# Translations
+languages: ["es", "en"]
+default_lang: "es"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

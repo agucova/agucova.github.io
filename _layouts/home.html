@@ -26,21 +26,46 @@ layout: compress
                     <hr class="hr-line">
                     <h3 class="title">
                         <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
+                        	<p style="font-size:1rem;font-weight:300">
+                            {% if site.active_lang == 'es' %}
+                              {{ site.bio.es}} 
+                            {% else %} 
+                              {{ site.bio.en }} 
+                            {% endif %}</p>
 			            </a>
                     </h3>
                     {% include social-links.html %}
                   <hr class="hr-line">
                   <h3 class="title">
-                         <a class="btn zoombtn" href="{{ site.url }}/about">
-                         Acerca
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/posts">
-                         Posts
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/projects">
-                         Proyectos
-                         </a>
+                    {% if site.active_lang == 'es' %}
+                        <a class="btn zoombtn" href="{{ site.url }}/about">
+                          Acerca
+                          </a>
+                          <a class="btn zoombtn" href="{{ site.url }}/posts">
+                          Posts
+                          </a>
+                          <a class="btn zoombtn" href="{{ site.url }}/projects">
+                          Proyectos
+                          </a>
+                          <a class="btn zoombtn" href="{{ site.url }}/en">
+                          <b>English</b>
+                          </a>
+                    {% else %}
+                    <a class="btn zoombtn" href="{{ site.url }}/about">
+                      About
+                      </a>
+                      <a class="btn zoombtn" href="{{ site.url }}/posts">
+                      Posts
+                      </a>
+                      <a class="btn zoombtn" href="{{ site.url }}/projects">
+                      Projects
+                      </a>
+                      <a class="btn zoombtn" href=" {{ site.url }}/">
+                      <b>Español</b>
+                      </a>
+                    {% endif %}
+
+
                  </h3>
             </div>
         </div>
