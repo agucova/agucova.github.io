@@ -34,10 +34,10 @@ disqus_shortname:   agucova
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
-  #verify:
+  analytics:        UA-50420608-9
+  verify:           MOLr9EOxX0OuegrLMQxSOhzZHnImzWo0A-h3I1nhOP8
   #ad-client:
   #ad-slot:
 #bing-verify:
