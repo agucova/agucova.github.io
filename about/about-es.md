@@ -18,4 +18,4 @@ Podrás encontrarme frecuentando mi [Github](https://github.com/agucova), mi [Tw
 
 ## Contacto
 
-Si tienes algún proyecto en mente, simplemente quieres hablar conmigo o algo, puedes enviarme un mail a [agustin@covarrubias.cl](mailto:agustin@covarrubias.cl).
+Si tienes algún proyecto en mente, simplemente quieres hablar conmigo o algo, puedes enviarme un mail a [agustin@agucova.me](agustin@agucova.me).
