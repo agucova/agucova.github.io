@@ -8,11 +8,9 @@ comments: false
 lang: en
 ---
 ## About me
-I'm an 18 year old student with a great deal of love for computing and science.
+I'm an 18 year old student and activist with a great deal of love for computing and science.
 
-At 10, I started programming in multiple languages, with the first being LUA to then move on to some basic web development. Later I started making mods and plugins (in Java) for the videogame [Minecraft](https://minecraft.net).
-
-After a while, I gained interest in the cybersecurity field, where I started being an active member of ["Seguridad Informática Chile"](https://hacking.cl). Nowadays I have a lot of an interest in various fields of science, ranging from psychology to medicine, although my main interest is biomedical engineering.
+At 10 I started programming in multiple languages, my first being LUA, to then start programming in Java for the development of mods and plugins for the videogame Minecraft. After a while, I gained interest in the cybersecurity field, where I started being an active member of ["Seguridad Informática Chile"](https://hacking.cl). Today I program mainly in Python, while ocassionaly working on lower-level languages such as C, but my main interest has shifted from computing towards biomedical engineering in general.
 
 Since 2017 I've been an organizer of the [chilean satellite](https://marchaporlaciencia.cl/) of [March for Science](https://marchforscience.com/) a global scientific activism movement targeting evidence-based policy and science advocacy, among other things. From there I cofounded Frente Conocimiento, a group of chilean scientific institutions that has organized the march yearly since then.
 
