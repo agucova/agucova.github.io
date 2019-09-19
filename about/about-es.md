@@ -14,7 +14,7 @@ A los 10 años empecé a programar en múltiples lenguajes, siendo mi primer len
 
 Hoy en día programo principalmente en Python, ocasionalmente trabajando en lenguajes de bajo nivel como C, pero mi interés principal ha pasado de la informática a la ingeniera biomédica. 
 
-A partir de 2017 he sido un organizador del [satélite chileno](https://marchaporlaciencia.cl/) de [March for Science](https://marchforscience.com/), un movimiento global de activismo científico centrado en la promoción de políticas públicas basadas en evidencia, financiamiento a la ciencia, y divulgación. Es por esto que cofundé [https://frenteconocimiento.cl](Frente Conocimiento), una agrupación de instituciones científicas chilenas que se encarga de organizar la marcha anualmente.
+A partir de 2017 he sido un organizador del [satélite chileno](https://marchaporlaciencia.cl/) de [March for Science](https://marchforscience.com/), un movimiento global de activismo científico centrado en la promoción de políticas públicas basadas en evidencia, financiamiento a la ciencia, y divulgación. Es por esto que cofundé [Frente Conocimiento](https://frenteconocimiento.cl), una agrupación de instituciones científicas chilenas que se encarga de organizar la marcha anualmente.
 
 Podrás encontrarme frecuentando mi [Github](https://github.com/agucova) y mi [Twitter](https://twitter.com/austinc3301). (Envíame un tweet!)
 
