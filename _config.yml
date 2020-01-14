@@ -85,3 +85,4 @@ exclude_from_localization: ["javascript", "images", "css"]
 parallel_localization: true
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+include: [_redirects]
