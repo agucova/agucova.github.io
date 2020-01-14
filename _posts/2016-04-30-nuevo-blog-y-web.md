@@ -14,3 +14,5 @@ Espero poder publicar posts de forma continua (y que no pase lo mismo que con tu
 Por si no lo sabes ya, ahora estoy trabajando para otra network, [Mythalium Network](//mythalium.com), principalmente como sysadmin, y dirijo varias cosas relacionadas con programación, pero, aún no hemos abierto.
 
 Si encuentras algún bug en mi web, y quieres reportarlo, por favor dime, puedes contactarme a través de mi [mail](mailto:agucova@gmail.com).
+
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
