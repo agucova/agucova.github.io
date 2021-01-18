@@ -8,7 +8,7 @@ comments: false
 lang: en
 ---
 ## About me
-I'm an 18 year old student and activist with a great deal of love for computing and science.
+I'm an 19 year old student and activist with a great deal of love for computing and science.
 
 At 10 I started programming in multiple languages, my first being LUA, to then start programming in Java for the development of mods and plugins for the videogame Minecraft. After a while, I gained interest in the cybersecurity field, where I started being an active member of ["Seguridad Informática Chile"](https://hacking.cl). Today I program mainly in Python, while ocassionaly working on lower-level languages such as C, but my main interest has shifted from computing towards biomedical engineering in general.
 
@@ -18,4 +18,4 @@ You can find my frequenting my [Github](https://github.com/agucova), [Twitter](h
 
 ## Contact
 
-If you have a project in mind, or simply want to ask a question, you can email me to [agustin@agucova.me](mailto:agustin@agucova.me).
+If you have a project in mind, or simply want to ask a question, you can email me to [hi@agucova.me](mailto:hi@agucova.me).
