@@ -8,7 +8,7 @@ comments: false
 lang: es
 ---
 ## ¿Quién soy?
-Soy un estudiante y activista de 19 años con una gran afición a la informática y la ciencia.
+Soy un estudiante de ingeniería y activista de 19 años con una gran afición a la informática y la ciencia.
 
 A los 10 años empecé a programar en múltiples lenguajes, siendo mi primer lenguaje LUA, para después programar en Java para el desarrollo de mods y plugins para el videojuego Minecraft. Más tarde tomé interés por el campo de la seguridad informática, pasando a ser un activo miembro de [Seguridad Informática Chile](https://hacking.cl). 
 
